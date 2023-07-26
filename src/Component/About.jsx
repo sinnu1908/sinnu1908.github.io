@@ -63,7 +63,7 @@ export default function About() {
             href={resume}
             target="_blank"
             download="Shrinivas-Katkamwar-Resume"
-            id="resume-link-2"
+            id="resume-button-2"
           >
             <Button
               background="none"

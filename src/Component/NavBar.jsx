@@ -157,7 +157,7 @@ export const NavBar = () => {
                 href={resume}
                 target="_blank"
                 download="Shrinivas_Katkamwar_Resume"
-                id="resume-link-1"
+                id="resume-button-1"
                 
               >
                 <Text
